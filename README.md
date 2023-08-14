@@ -15,7 +15,7 @@ Welcome to "The Ritual," a spine-chilling puzzle-horror game set in a dark and m
 "The Ritual" is developed using Unreal Engine, leveraging its cutting-edge graphical capabilities and immersive audio design to create a truly captivating and bone-chilling experience.
 
 ## Installation
-Clone the repository: git clone https://github.com/your-username/The-Ritual.git
+Clone the repository: git clone https://github.com/onatda2/The-Ritual.git
 
 Open the project in Unreal Engine.
 
